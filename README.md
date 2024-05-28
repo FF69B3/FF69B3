@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<div align="center"> <img src="https://profile-counter.glitch.me/QInzhengk/count.svg" /> </div>
+
 <!--
 **FF69B3/FF69B3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
