@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 - QQ: 78807100
-- [Email](78807100@qq.com)
 - [哔哩哔哩](https://space.bilibili.com/3671718)
 
 <!--
